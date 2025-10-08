@@ -1,10 +1,10 @@
 # Multi-Language-Translator
 
-## 📖 Project Description
+##  Project Description
 
 Multi-Language-Translator is a web-based application that enables users to translate text between multiple languages seamlessly. Built with modern web technologies, this tool provides an intuitive interface for quick and accurate translations, making communication across language barriers effortless.
 
-## ✨ Features
+##  Features
 
 - **Multiple Language Support**: Translate text between various languages
 - **User-Friendly Interface**: Clean and intuitive design for easy navigation
@@ -12,7 +12,7 @@ Multi-Language-Translator is a web-based application that enables users to trans
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Fast and Efficient**: Quick translation processing for optimal user experience
 
-## 🚀 Installation
+##  Installation
 
 To set up the Multi-Language-Translator locally, follow these steps:
 
@@ -37,7 +37,7 @@ npx http-server
 
 4. Visit `http://localhost:8000` in your browser
 
-## 💻 Usage
+##  Usage
 
 1. Open the application in your web browser
 2. Select the source language from the dropdown menu
@@ -45,7 +45,7 @@ npx http-server
 4. Enter or paste the text you want to translate
 5. View the translated text instantly
 
-## 🌐 Deployment
+##  Deployment
 
 This project is deployed using **GitHub Pages** and is accessible at:
 
@@ -59,7 +59,7 @@ To deploy your own version:
 4. Save the settings
 5. Your site will be published at `https://[your-username].github.io/Multi-Language-Translator/`
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -72,11 +72,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+##  Contact
 
 **Project Maintainer**: Yohitha Chunduri
 
@@ -85,6 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ If you find this project helpful, please consider giving it a star!
+ If you find this project helpful, please consider giving it a star!
 
 **Built with ❤️ by Yohitha Chunduri**
